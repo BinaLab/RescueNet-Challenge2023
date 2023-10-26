@@ -46,6 +46,8 @@ For the Visual Question Answering (VQA) task, we will provide QA pairs. These qu
   
   9. In Change Detection, we identify whether there is a change in the number of buildings before and after the disaster due to the total number of destroyed buildings. “Is there any change in the number of buildings after the disaster on the scene?”.
 
+The dataset for Track 2 can be downloaded from this link: [https://drive.google.com/drive/folders/1_BOY2AaHLkQWoN8ZjQ0kjHnDKp0YTMjZ?usp=sharing](https://drive.google.com/drive/folders/1_BOY2AaHLkQWoN8ZjQ0kjHnDKp0YTMjZ?usp=sharing)
+
 ### Paper Link
 The paper can be downloaded from this [link](https://arxiv.org/abs/2202.12361).
 Please cite our paper when using the dataset
@@ -57,4 +59,16 @@ Please cite our paper when using the dataset
   journal={arXiv preprint arXiv:2202.12361},
   year={2023}
 }
+
+@inproceedings{10281747,
+  author={Sarkar, Argho and Rahnemoonfar, Maryam},
+  booktitle={IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={RESCUENet-VQA: A Large-Scale Visual Question Answering Benchmark for Damage Assessment}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1150-1153},
+  doi={10.1109/IGARSS52108.2023.10281747}
+}
+
 ```
