@@ -49,7 +49,7 @@ For the Visual Question Answering (VQA) task, we will provide QA pairs. These qu
 The dataset for Track 2 can be downloaded from this link: [https://drive.google.com/drive/folders/1_BOY2AaHLkQWoN8ZjQ0kjHnDKp0YTMjZ?usp=sharing](https://drive.google.com/drive/folders/1_BOY2AaHLkQWoN8ZjQ0kjHnDKp0YTMjZ?usp=sharing)
 
 ### Paper Link
-The paper can be downloaded from this [link](https://arxiv.org/abs/2202.12361).
+The Segmentation paper can be downloaded from this [link](https://arxiv.org/abs/2202.12361) and VQA paper from this [link](https://ieeexplore.ieee.org/document/10281747)
 Please cite our paper when using the dataset
 
  ```
