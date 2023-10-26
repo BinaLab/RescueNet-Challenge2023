@@ -22,7 +22,7 @@ For Track 2 ( Supervised VQA), in the training set we have around 1450 images an
 
 Semi-Supervised Semantic Segmentation: The semantic segmentation labels include: 1) Background, 2) Water, 3)Building No Damage, 4) Building Minor Damage, 5) Building Major Damage, 6) Building Total Destruction, 7) Road-Clear, 8) Road-Blocked, 9) Vehicle, 10) Tree, 11) Pool. Only a small portion of the training images have their corresponding masks available.
 
-The dataset for Track 1 can be downloaded from this link: [https://drive.google.com/drive/folders/1sZZMJkbqJNbHgebKvHzcXYZHJd6ss4tH?usp=sharing](https://drive.google.com/drive/folders/1Gv7fr5YiIkNrEdVKMiIIKugTxuB6dHQH?usp=sharing)
+The dataset for Track 1 can be downloaded from this link: [https://drive.google.com/drive/folders/1Gv7fr5YiIkNrEdVKMiIIKugTxuB6dHQH?usp=sharing](https://drive.google.com/drive/folders/1Gv7fr5YiIkNrEdVKMiIIKugTxuB6dHQH?usp=sharing)
 
 ### Track 2
 
