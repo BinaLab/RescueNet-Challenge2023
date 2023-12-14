@@ -13,7 +13,7 @@ The [RescueNet](https://arxiv.org/abs/2202.12361) initiative contributes high-re
 
 The data is collected with a small UAS platform, DJI Mavic Pro quadcopters, after Hurricane Michael.
 
-For Track 1 ( Semi-supervised Classification and Semantic Segmentation),  in the training set, we have around 900 labeled images (~25% of the training set) and around 2695 unlabeled images (~75% of the training set ).
+For Track 1 ( Semi-supervised Semantic Segmentation),  in the training set, we have around 900 labeled images (~25% of the training set) and around 2695 unlabeled images (~75% of the training set ).
 
 For Track 2 ( Supervised VQA), in the training set we have around 1450 images and there are a total 4511 image-question pairs.   
 
